@@ -3,7 +3,7 @@
 A professional-grade estimation tool designed to plan and visualize data migration timelines. This tool bridges the gap between automated technical discovery and high-level project planning by offering both **Credential-based Scanning** and **Heuristic Manual Estimation**.
 
 ## 🚀 Live Application
-**[INSERT STREAMLIT URL HERE]**
+**https://m365-workspace-migration-planner.streamlit.app/**
 
 ---
 
@@ -43,7 +43,7 @@ If you wish to run this planner locally on your machine:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/migration-planner.git
+git clone https://github.com/Aanushkaaa/migration-planner.git
 cd migration-planner
 ```
 
